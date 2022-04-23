@@ -1,0 +1,38 @@
+{
+  "build": "py39h06a4308_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.5.1,<3.5.2.0a0",
+    "pyqt",
+    "python >=3.9,<3.10.0a0",
+    "tornado"
+  ],
+  "extracted_package_dir": "/home/greenhound/miniconda3/pkgs/matplotlib-3.5.1-py39h06a4308_1",
+  "features": "",
+  "files": [],
+  "fn": "matplotlib-3.5.1-py39h06a4308_1.conda",
+  "legacy_bz2_md5": "364c1e3dddefa27741e540496c38b694",
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "/home/greenhound/miniconda3/pkgs/matplotlib-3.5.1-py39h06a4308_1",
+    "type": 1
+  },
+  "md5": "b0d025a5866f9e5df0793ebf34f7f245",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/home/greenhound/miniconda3/pkgs/matplotlib-3.5.1-py39h06a4308_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "3e01c78fec332ce2545142b42c82a1d7c5a70b4feb065f9414b34a646dcec379",
+  "size": 29346,
+  "subdir": "linux-64",
+  "timestamp": 1647442129989,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/matplotlib-3.5.1-py39h06a4308_1.conda",
+  "version": "3.5.1"
+}
